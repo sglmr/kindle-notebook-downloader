@@ -1,8 +1,13 @@
-# Kindle Highlights Exporter
+# Kindle Notebook Exporter
 
 A browser extension that extracts your Kindle highlights and notes from the [Amazon Kindle Notebook page](https://read.amazon.com/notebook) and converts them into a markdown file that you can use in your note-taking system.
 
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S41BKIBN)
+
+## Demo
+
+https://github.com/user-attachments/assets/1c36147c-c5da-41f0-9a2d-7ac2296fd2a0
 
 ## Features
 
