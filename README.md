@@ -2,6 +2,8 @@
 
 A browser extension that extracts your Kindle highlights and notes from the [Amazon Kindle Notebook page](https://read.amazon.com/notebook) and converts them into a markdown file that you can use in your note-taking system.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S41BKIBN)
+
 ## Features
 
 - 🔍 Extracts highlights and notes from your Kindle Notebook
