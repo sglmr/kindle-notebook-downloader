@@ -1,31 +1,39 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <title>Kindle Highlights Exporter</title>
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
   <div id="app">
     <h1>Kindle Highlights Exporter</h1>
     <p>Export your Kindle highlights and notes to a markdown file.</p>
-    
+
     <div id="status-container">
       <p id="status-message">Ready to export</p>
     </div>
-    
+
     <div id="button-container">
       <button id="export-button">Export Highlights</button>
     </div>
-    
+
     <div id="options-container">
       <label for="include-location">
         <input type="checkbox" id="include-location" checked>
         Include location numbers
       </label>
     </div>
-    
-    <p class="instructions">Go to <a href="https://read.amazon.com/notebook" target="_blank">read.amazon.com/notebook</a> and click Export to download your highlights.</p>
+
+    <p class="instructions">Go to <a href="https://read.amazon.com/notebook"
+        target="_blank">read.amazon.com/notebook</a> and click Export to download your highlights.</p>
+    <div id="ko-fi">
+      <a href='https://ko-fi.com/S6S41BKIBN' target='_blank'><img height='36' style='border:0px;height:36px;'
+          src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+    </div>
   </div>
   <script src="popup.js"></script>
 </body>
+
 </html>
